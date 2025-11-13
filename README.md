@@ -7,15 +7,15 @@
   🌱 Currently contributing to projects at <b>@Solvro</b> and <b>@Nokia</b>.
 </p>
 
----
 
-## 🧠 About Me
+
+## 👀 About Me
 
 - ✈️ Always trying to explore the world
 - ⚙️ Actively improving my skills in **Data Science**, **AI and ML**.  
-- 🌍 in the past based in **Barcelona, Spain** and **Paris, France**
+- 🌍 In the past based in **Barcelona, Spain** and **Paris, France**
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -39,14 +39,15 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>
 </p>
 
----
+
 
 ## 📈 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pbonar&theme=radical" />
 </p>
----
+
+
 
 ## 🌍 Connect with Me
 
