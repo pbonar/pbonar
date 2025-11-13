@@ -11,9 +11,9 @@
 
 ## 🧠 About Me
 
-- 🧩 I love building **scalable systems**, exploring **machine learning**, and optimizing workflows.  
-- 🚀 Always looking for ways to blend **theory** with **real-world impact**.  
+- ✈️ Always trying to explore the world
 - ⚙️ Actively improving my skills in **Data Science**, **AI and ML**.  
+- 🌍 in the past based in **Barcelona, Spain** and **Paris, France**
 
 ---
 
