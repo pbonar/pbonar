@@ -42,28 +42,11 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Technologies |
-| :--- | :--- | :--- |
-| 🧭 [**Solvro/mobile-topwr**](https://github.com/Solvro/mobile-topwr) | The ToPWR mobile app — connecting Wrocław’s student community through Flutter. | `Dart`, `Flutter` |
-| 🧮 [**zpi-evolutionary-planner**](https://github.com/zawodev/zpi-evolutionary-planner) | Class scheduling system using evolutionary optimization. | `Python`, `NumPy`, `Optimization` |
-| 📊 [**analysis-of-psychoactive-substance-use**](https://github.com/pbonar/analysis-of-psychoactive-substance-use) | Decision-making system for analyzing psychoactive substance use data. | `Python`, `Pandas`, `ML` |
-| 🏠 [**AaronGMichael/DOMISEP**](https://github.com/AaronGMichael/DOMISEP) | Home automation platform built during the ISEP A2 project course. | `PHP`, `MySQL`, `JavaScript` |
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pbonar&show_icons=true&theme=radical&count_private=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pbonar&theme=radical" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbonar&layout=compact&theme=radical" />
-</p>
-
 ---
 
 ## 🌍 Connect with Me
