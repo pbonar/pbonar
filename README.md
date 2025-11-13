@@ -40,15 +40,6 @@
 </p>
 
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pbonar&theme=radical" />
-</p>
-
-
-
 ## 🌍 Connect with Me
 
 <p align="center">
