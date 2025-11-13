@@ -4,7 +4,6 @@
 
 <p align="center">
   🎓 Computer Science Student from <b>Wrocław, Poland</b> <br/>
-  💻 Passionate about software development, machine learning, and data science. <br/>
   🌱 Currently contributing to projects at <b>@Solvro</b> and <b>@Nokia</b>.
 </p>
 
