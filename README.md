@@ -39,19 +39,3 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>
 </p>
 
-
-## 🌍 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/piotr-bonar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Piotr%20Bonar-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/pbonar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-pbonar-black?logo=github" alt="GitHub"/>
-  </a>
-  <a href="mailto:piotr.bonar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-piotr.bonar%40outlook.com-red?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
