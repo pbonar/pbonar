@@ -7,16 +7,6 @@
   🌱 Currently contributing to projects at <b>@Solvro</b> and <b>@Nokia</b>.
 </p>
 
-
-
-## 👀 About Me
-
-- ✈️ Always trying to explore the world
-- ⚙️ Actively improving my skills in **Data Science**, **AI and ML**.  
-- 🌍 In the past based in **Barcelona, Spain** and **Paris, France**
-
-
-
 ## 🛠️ Tech Stack
 
 <p align="center">
